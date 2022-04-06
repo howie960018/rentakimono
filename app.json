@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "kimono",
+    "slug": "kimono",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/foxlogo.png",
+    "splash": {
+      "image": "./assets/rentakimoo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFAAAA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/foxlogo.png",
+        "backgroundColor": "#FFAAAA"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
