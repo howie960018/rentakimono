@@ -1,0 +1,70 @@
+[
+    {
+    "//補充": "男性和服",
+      "title": "male",
+      "data": [
+        {
+          "title": "富士山",
+          "subtitle": "紋付羽織袴",
+          "image": "https://github.com/howie960018/rentakimono/blob/master/assets/images/fuji.png?raw=true",
+          "description": "以富士山為原型的禮裝和服，雪白的顏色代表廣闊與純淨",
+          "component1": "羽織",
+          "component2": "羽織紐",
+          "component3": "袴",
+          "c1price": 500,
+          "c2price": 70,
+          "c3price": 1000,
+          "totalprice": 1570
+        },
+        {
+            "title": "八咫鳥",
+            "subtitle": "紋付羽織袴",
+            "image": "https://github.com/howie960018/rentakimono/blob/master/assets/images/karasu.png?raw=true",
+            "description": "以日本神話中的八咫鳥為原型的禮裝和服，象徵著“忠實、誠實、大無畏”的精神",
+            "component1": "羽織",
+            "component2": "羽織紐",
+            "component3": "袴",
+            "c1price": 500,
+            "c2price": 70,
+            "c3price": 1100,
+            "totalprice": 1670
+        },
+        {
+            "title": "彼岸花",
+            "subtitle": "紋付羽織袴",
+            "image": "https://github.com/howie960018/rentakimono/blob/master/assets/images/ruroni.png?raw=true",
+            "description": "以包含著對人深深的愛戀和思念的彼岸花，花語為「再會」以及「來生相見」",
+            "component1": "羽織",
+            "component2": "羽織紐",
+            "component3": "袴",
+            "c1price": 500,
+            "c2price": 70,
+            "c3price": 1000,
+            "totalprice": 1570
+        },
+        {
+            "title": "阿波藍",
+            "subtitle": "紋付羽織袴",
+            "image": "https://github.com/howie960018/rentakimono/blob/master/assets/images/umi.png?raw=true",
+            "description": "在日本同茶葉、甚至黃金一樣貴重阿波藍染是來自天然蓼藍植物，也是代表著勝利的顏色",
+            "component1": "羽織",
+            "component2": "羽織紐",
+            "component3": "袴",
+            "c1price": 800,
+            "c2price": 70,
+            "c3price": 800,
+            "totalprice": 1670
+        }
+        
+
+      ]
+    },
+    {
+    "//補充": "女性和服",
+      "title": "Female",
+      "data": [
+
+      ]
+    }
+  ]
+  
