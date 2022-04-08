@@ -42,7 +42,7 @@ function SearchStack() {
 function Home({ navigation }) {
   return (
     <View style={styles.container}>
-      <Image style={styles.imagestyle} source={require('./assets/foxlogo.png')} />
+      <Image style={styles.imagestyle} source={require('./assets/images/foxlogo.png')} />
       <Text style={styles.text}>以簡單的步驟來租借和服吧!</Text>
       <Button style={styles.start} title="開始" onPress={() =>navigation.navigate('Details')} />
       {/* <StatusBar style="auto" /> */}
